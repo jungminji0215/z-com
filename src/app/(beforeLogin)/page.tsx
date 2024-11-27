@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
-import styles from "./page.module.css";
-import zLogo from "../../public/zlogo.png";
+import styles from "../page.module.css";
+import zLogo from "../../../public/zlogo.png";
 
 /** 이 페이지는 큰 X 있는 로그인 전 메인 페이지 */
 export default function Home() {
